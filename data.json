@@ -1,0 +1,37 @@
+[{
+        "name": "Klaus",
+        "age": 29,
+        "languages": ["German", "Spanish"],
+        "education": ["MA", "BA", "GCSE"]
+    },
+    {
+        "name": "Bob",
+        "age": 16,
+        "languages": ["English", "Spanish"],
+        "education": ["MD", "PhD", "MSc", "BSc", "GCSE"]
+    },
+    {
+        "name": "Iain",
+        "age": 21,
+        "languages": ["English", "Gaelic"],
+        "education": ["PhD", "MA", "BA", "GCSE"]
+    },
+    {
+        "name": "Kris",
+        "age": 21,
+        "languages": ["English", "Dutch"],
+        "education": ["GCSE"]
+    },
+    {
+        "name": "Susan",
+        "age": 21,
+        "languages": ["English", "Russian"],
+        "education": ["MA", "BA", "GCSE"]
+    },
+    {
+        "name": "Jane",
+        "age": 21,
+        "languages": ["French", "Russian"],
+        "education": ["BA", "GCSE"]
+    }
+]
